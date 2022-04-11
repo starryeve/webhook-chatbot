@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ESNext"],
+    "moduleResolution": "node",
+    "outDir": "./",
+    "removeComments": false,
+    "sourceMap": false,
+    "target": "es6"
+  },
+  "exclude": ["node_modules","lib", "examples"],
+  "include": [
+    "src/",
+  ],
+  "ts-node": {
+    "esm": true
+  }
+}
