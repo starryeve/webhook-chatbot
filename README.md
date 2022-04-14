@@ -1,4 +1,7 @@
 # **Webhook Chatbot**
+![version](https://img.shields.io/npm/v/webhook-chatbot)
+![downloads](https://img.shields.io/npm/dt/webhook-chatbot)
+![size](https://img.shields.io/bundlephobia/min/webhook-chatbot)
 
 群聊机器人消息推送，目前支持企业微信和钉钉。（在官方文档的示例上做了一些封装，方便嵌入项目中使用）
 
